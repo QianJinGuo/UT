@@ -9,5 +9,6 @@
 
   <modules>
     <module>HappyHotelApp</module>
+    <module>HappyHotelAppSpringBoot</module>
   </modules>
 </project>
