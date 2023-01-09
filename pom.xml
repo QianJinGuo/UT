@@ -10,5 +10,6 @@
   <modules>
     <module>HappyHotelApp</module>
     <module>HappyHotelAppSpringBoot</module>
+    <module>HealthyCoderApp</module>
   </modules>
 </project>
