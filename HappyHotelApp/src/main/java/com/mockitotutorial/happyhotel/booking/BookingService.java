@@ -15,7 +15,7 @@ public class BookingService {
         //The roomServiceMock will return an empty list by default
         return roomService.getAvailableRooms()
                 .stream()
-                .map(room -> room.getCapacity())
+                .map(Room::getCapacity)
                 .reduce(0, Integer::sum);
     }
 
