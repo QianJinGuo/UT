@@ -9,7 +9,6 @@
 7. mock static and final methods (don't try to mock private methods)
 8. Focus on Mockito only.It already has the features you need! (It would be best not to depend on additional libraries such as PowerMock too much)
 
-说几句关起门来的话：
 
 My personal opinion as a software developer is that you no longer need to use PowerMock for your mocks.
 Mockito has introduced enough new features,and you can use it without PowerMock now.
